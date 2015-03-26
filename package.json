@@ -1,0 +1,29 @@
+{
+  "name": "wd-deasync",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A wrapper around wd.js to make all Webdriver and Element methods synchronous, using deasync.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tarobomb/wd-deasync"
+  },
+  "keywords": [
+    "wd",
+    "deasync",
+    "wd-sync"
+  ],
+  "author": "Kentaro Kaji <kentaro.kaji@nytimes.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tarobomb/wd-deasync/issues"
+  },
+  "homepage": "https://github.com/tarobomb/wd-deasync",
+  "dependencies": {
+    "deasync": "0.0.10",
+    "wd": "^0.3.11"
+  }
+}
