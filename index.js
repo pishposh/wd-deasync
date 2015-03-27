@@ -68,6 +68,8 @@ var wdd = {
     asserters: wd.asserters,
 
     TouchAction: wd.TouchAction,
+    
+    MultiAction: wd.MultiAction,
 
     wd: wd
 };
