@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/pishposh/wd-deasync",
   "dependencies": {
-    "deasync": "0.1.2",
+    "deasync": "0.1.4",
     "wd": "^0.3.12"
   }
 }
